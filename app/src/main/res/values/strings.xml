@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Solar Tracker</string>
+    <string name="strdisconnect">DISCONNECT</string>
+    <string name="strparameters">PARAMETERS</string>
+    <string name="mode">Mode</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manual</string>
+    <string name="temperature">Temperature</string>
+    <string name="current">Current</string>
+    <string name="power">Power</string>
+    <string name="voltage">Voltage</string>
+    <string name="humidity">Humidity</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="textview">TextView</string>
+
+
+</resources>
